@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Your Name - Personal Homepage</title>
+	<style>
+		body {
+			font-family: Arial, sans-serif;
+			margin: 40px;
+		}
+		.header {
+			background-color: #f0f0f0;
+			padding: 20px;
+			text-align: center;
+		}
+		.bio {
+			margin-top: 40px;
+		}
+		.social-links {
+			margin-top: 40px;
+		}
+		.social-links a {
+			margin-right: 20px;
+		}
+	</style>
+</head>
+<body>
+	<div class="header">
+		<h1>Your Name</h1>
+	</div>
+	<div class="bio">
+		<p>Brief bio about yourself...</p>
+	</div>
+	<div class="social-links">
+		<a href="(link unavailable)" target="_blank">Twitter</a>
+		<a href="(link unavailable)" target="_blank">LinkedIn</a>
+		<a href="(link unavailable)" target="_blank">GitHub</a>
+		<a href="mailto:your@email.com">Email</a>
+	</div>
+</body>
+</html>
+
